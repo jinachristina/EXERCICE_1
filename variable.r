@@ -1,5 +1,5 @@
 /*Calcul des variables*/
-x=5
+x=-5
 y=7
 z=x+y
 z
